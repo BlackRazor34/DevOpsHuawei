@@ -1,1 +1,1 @@
-print("HelloCloud")
+print("HelloCloud ile güncellendi")
